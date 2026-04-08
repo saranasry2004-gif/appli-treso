@@ -1,0 +1,21 @@
+date,type,partie,description,montant,statut
+2025-04-05,client,ONA Immobilier,Facture AES-2508 – Etudes VRD Lot Sud,115000,a_encaisser
+2025-04-08,fournisseur,CNSS,Charges sociales Avril,14200,a_payer
+2025-04-10,fournisseur,Propriétaire,Loyer bureau – Avril,12000,a_payer
+2025-04-12,client,Al Omrane,Facture AES-2509 – Suivi phase 2,88000,a_encaisser
+2025-04-15,fournisseur,Direction Impots,Acompte IS – T1 2025,28000,a_payer
+2025-04-18,client,Maroc Construct,Facture AES-2510 – Mission MOE complète,67000,a_encaisser
+2025-04-20,fournisseur,CNSS,CNSS complémentaire – Régularisation,5800,a_payer
+2025-04-22,client,Groupe Tanger Med,Facture AES-2511 – Rapport géotechnique,43000,a_encaisser
+2025-04-25,fournisseur,Expert-comptable,Honoraires trimestriels T1,8500,a_payer
+2025-04-28,client,Résidences Atlas,Facture AES-2512 – BE structure solde,52000,a_encaisser
+2025-05-05,fournisseur,Direction Impots,TVA – Déclaration Avril,38000,a_payer
+2025-05-07,client,ONA Immobilier,Facture AES-2513 – Plans exécution,75000,a_encaisser
+2025-05-10,fournisseur,CNSS,Charges sociales Mai,14200,a_payer
+2025-05-12,fournisseur,Propriétaire,Loyer bureau – Mai,12000,a_payer
+2025-05-15,client,CDG Immobilier,Facture AES-2514 – Audit structure parking,95000,a_encaisser
+2025-05-20,fournisseur,Assurance,Prime RC professionnelle – Complément,4200,a_payer
+2025-05-25,client,Al Omrane,Facture AES-2515 – Phase finale VRD,120000,a_encaisser
+2025-03-15,client,PromoMaroc SA,Facture AES-2498 – Etudes préliminaires,38000,en_retard
+2025-03-22,client,Invest Immo,Facture AES-2499 – Rapport diagnostic,29000,en_retard
+2025-03-28,fournisseur,Sous-traitant BET,Facture sous-traitance – Chantier Fès,18500,en_retard
