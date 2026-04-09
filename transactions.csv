@@ -1,0 +1,29 @@
+date,type,categorie,description,montant
+2026-01-05,entree,Honoraires clients,Facture AES-2601 – ONA Immobilier – Phase 1,120000
+2026-01-07,sortie,Salaires,Salaires ingénieurs – Janvier,68000
+2026-01-08,sortie,Charges sociales,CNSS + AMO – Janvier,14200
+2026-01-10,sortie,Loyer,Loyer bureau – Casablanca,12000
+2026-01-14,entree,Honoraires clients,Facture AES-2602 – Maroc Construct – Audit structure,55000
+2026-01-16,sortie,Sous-traitance,Topographe partenaire – Chantier Agadir,18000
+2026-01-20,sortie,Charges d exploitation,Abonnements logiciels CAO/DAO,4800
+2026-01-23,entree,Honoraires clients,Acompte AES-2603 – Résidences Atlas – BE structure,30000
+2026-01-27,sortie,Impots et taxes,Acompte IS – T4 2025,22000
+2026-01-29,sortie,Charges d exploitation,Déplacements chantiers,3200
+2026-02-04,entree,Honoraires clients,Facture AES-2604 – Groupe Tanger Med – Mission AMO,95000
+2026-02-07,sortie,Salaires,Salaires ingénieurs – Février,68000
+2026-02-10,sortie,Loyer,Loyer bureau – Février,12000
+2026-02-12,sortie,Charges sociales,CNSS + AMO – Février,14200
+2026-02-16,entree,Honoraires clients,Facture AES-2605 – ONA Immobilier – Phase 2,85000
+2026-02-19,sortie,Fournitures,Matériel de bureau et consommables,2600
+2026-02-21,sortie,Sous-traitance,Bureau de contrôle externe – Projet Tanger,25000
+2026-02-25,entree,Remboursement,Remboursement note de frais client,4500
+2026-02-27,sortie,Charges d exploitation,Expert-comptable – Honoraires Fev,6000
+2026-03-03,entree,Honoraires clients,Facture AES-2606 – Al Omrane – Lot résidentiel,140000
+2026-03-07,sortie,Salaires,Salaires ingénieurs – Mars,68000
+2026-03-10,sortie,Loyer,Loyer bureau – Mars,12000
+2026-03-12,sortie,Charges sociales,CNSS + AMO – Mars,14200
+2026-03-17,entree,Honoraires clients,Facture AES-2607 – Maroc Construct – Suivi chantier,42000
+2026-03-19,sortie,Impots et taxes,TVA – Déclaration mensuelle Mars,31000
+2026-03-22,sortie,Sous-traitance,Géotechnicien externe – Sondages sol,15000
+2026-03-26,entree,Divers,Refacturation frais déplacement client,3800
+2026-03-29,sortie,Charges d exploitation,Assurance RC professionnelle,9500
