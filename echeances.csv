@@ -1,0 +1,28 @@
+date,type,partie,description,montant,statut
+2026-04-10,fournisseur,CNSS,Charges sociales Avril 2026,14200,a_payer
+2026-04-11,fournisseur,Propriétaire,Loyer bureau – Avril 2026,12000,a_payer
+2026-04-14,client,ONA Immobilier,Facture AES-2608 – Etudes VRD Lot Sud,115000,a_encaisser
+2026-04-16,client,Al Omrane,Facture AES-2609 – Suivi phase 2 résidentiel,88000,a_encaisser
+2026-04-18,fournisseur,Direction Impots,Acompte IS – T1 2026,28000,a_payer
+2026-04-20,client,Maroc Construct,Facture AES-2610 – Mission MOE complète,67000,a_encaisser
+2026-04-24,fournisseur,CNSS,CNSS complémentaire – Régularisation,5800,a_payer
+2026-04-25,client,Groupe Tanger Med,Facture AES-2611 – Rapport géotechnique,43000,a_encaisser
+2026-04-28,fournisseur,Expert-comptable,Honoraires trimestriels T1 2026,8500,a_payer
+2026-04-30,client,Résidences Atlas,Facture AES-2612 – BE structure solde,52000,a_encaisser
+2026-05-02,fournisseur,Salaires,Salaires ingénieurs – Avril 2026,68000,a_payer
+2026-05-05,fournisseur,Direction Impots,TVA – Déclaration Avril,38000,a_payer
+2026-05-07,client,ONA Immobilier,Facture AES-2613 – Plans exécution,75000,a_encaisser
+2026-05-09,fournisseur,CNSS,Charges sociales Mai 2026,14200,a_payer
+2026-05-10,fournisseur,Propriétaire,Loyer bureau – Mai 2026,12000,a_payer
+2026-05-14,client,CDG Immobilier,Facture AES-2614 – Audit structure parking,95000,a_encaisser
+2026-05-16,fournisseur,Sous-traitant BET,Solde sous-traitance Chantier Fès,18500,a_payer
+2026-05-18,fournisseur,Assurance,Prime RC professionnelle – Complément,4200,a_payer
+2026-05-22,client,Al Omrane,Facture AES-2615 – Phase finale VRD,120000,a_encaisser
+2026-05-24,fournisseur,Salaires,Salaires ingénieurs – Mai 2026,68000,a_payer
+2026-05-25,fournisseur,Direction Impots,TVA – Déclaration Mai,29000,a_payer
+2026-05-28,client,Nouveau Client – Lydec,Facture AES-2616 – Etudes hydrauliques,85000,a_encaisser
+2026-05-30,fournisseur,Expert-comptable,Honoraires trimestriels T2 2026,8500,a_payer
+2026-06-02,client,Maroc Construct,Facture AES-2617 – Suivi chantier Mai,48000,a_encaisser
+2026-03-20,client,PromoMaroc SA,Facture AES-2598 – Etudes préliminaires,38000,en_retard
+2026-03-28,client,Invest Immo,Facture AES-2599 – Rapport diagnostic,29000,en_retard
+2026-04-02,fournisseur,Sous-traitant Rabat,Facture travaux – Chantier Salé,18500,en_retard
